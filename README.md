@@ -1,1 +1,1 @@
-Homework assignment using variables to multiply hours and rate to find pay and overpay
+I am working on relearning python and have been following a python Course from a professor at the Univeristy of Michigan. This is the python homework assignment working with variables. I created three variables, the first two take the users input for hours and rate. The third variable multiplies those with the decimal version and stores that. I printed the string pay and the third variable that stores the math function to get the pay. The result would look like "Pay: 100.00"
